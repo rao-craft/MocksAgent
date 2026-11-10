@@ -50,7 +50,7 @@ changes the API. Where `network`'s `.preview` client answers every endpoint with
 ## Get it
 
 In Craft, install Mocks from the Agent Store, or run
-`craft agents add https://github.com/Rao-Craft-Agents/MocksAgent.git`, then say `$mocks` in a request.
+`craft agents add https://github.com/rao-craft/MocksAgent.git`, then say `$mocks` in a request.
 
 ## Requirements
 

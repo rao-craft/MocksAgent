@@ -14,7 +14,7 @@ let mocksRecord: GraniteRoster.Record = { GraniteRoster.record(MocksAgent.self) 
 ```
 
 In [Craft](https://github.com/riteshpakala/Craft), install it from the Agent Store or with
-`craft agents add https://github.com/Rao-Craft-Agents/MocksAgent.git`, then say `$mocks` in a request:
+`craft agents add https://github.com/rao-craft/MocksAgent.git`, then say `$mocks` in a request:
 
 ```
 $mocks give the app a cozy recipe-sharing community to show: home cooks posting weeknight dinners, bakes and
